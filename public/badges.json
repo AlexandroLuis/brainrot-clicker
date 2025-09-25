@@ -1,0 +1,84 @@
+{
+  "badges": [
+    {
+      "id": "tripi",
+      "name": "Tripi Tropi",
+      "emoji": "/brainrot/Tripi_Tropi_Original.webp",
+      "cost": 0,
+      "description": "Default badge",
+      "rarity": "common"
+    },
+    {
+      "id": "boneca",
+      "name": "Boneca Ambalabu",
+      "emoji": "/brainrot/BonecaAmbalabuOriginal.webp",
+      "cost": 1000,
+      "description": "Cursed doll",
+      "rarity": "common"
+    },
+    {
+      "id": "chicleteira",
+      "name": "Chicleteira Bicicleteira",
+      "emoji": "/brainrot/Chicleteira_Bicicleteira.webp",
+      "cost": 2000,
+      "description": "Sticky biker",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "coxini",
+      "name": "Coxini Safadini",
+      "emoji": "/brainrot/Coxini_Safadini.png",
+      "cost": 3000,
+      "description": "Dangerous snack",
+      "rarity": "rare"
+    },
+    {
+      "id": "fluri",
+      "name": "Fluriflura",
+      "emoji": "/brainrot/Fluriflura_Original.webp",
+      "cost": 4000,
+      "description": "The floral chaos",
+      "rarity": "rare"
+    },
+    {
+      "id": "lirili",
+      "name": "Lirili Larila",
+      "emoji": "/brainrot/Lirili_Larila.webp",
+      "cost": 5000,
+      "description": "Sing-song madness",
+      "rarity": "rare"
+    },
+    {
+      "id": "timcheese",
+      "name": "Tim Cheese",
+      "emoji": "/brainrot/Tim_cheese.webp",
+      "cost": 6000,
+      "description": "Cheesy as always",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "tralalero",
+      "name": "Tralalero Tralala",
+      "emoji": "/brainrot/Tralalero_Tralala.webp",
+      "cost": 7000,
+      "description": "Loud chaos",
+      "rarity": "rare"
+    },
+    {
+      "id": "trictrac",
+      "name": "Tric Trac Baraboom",
+      "emoji": "/brainrot/Tric_Trac_Baraboom_OG.webp",
+      "cost": 8000,
+      "description": "Explosive nonsense",
+      "rarity": "secret"
+    },
+    {
+      "id": "chefcrab",
+      "name": "Chef Crab",
+      "emoji": "/brainrot/ChefCrabOrgin.webp",
+      "cost": 10000,
+      "description": "Culinary crustacean",
+      "rarity": "admin"
+    }
+  ]
+}
