@@ -4,10 +4,10 @@ import { FaSun, FaMoon } from 'react-icons/fa'
 function App() {
   const defaultState = {
     totalCoins: 0,
-    totalBattery: 150,
+    totalBattery: 30,
     levelOfClicks: 1,
-    levelOfBattery: 150,
-    levelOfCharge: 10,
+    levelOfBattery: 30,
+    levelOfCharge: 1,
     costForClick: 100,
     costForBattery: 200,
     costForCharge: 150,
